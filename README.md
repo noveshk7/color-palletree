@@ -58,6 +58,40 @@ npm run build
 npm run preview
 ```
 
+## 📖 Usage
+1. Open the app in your browser.
+2. Generate or explore color palettes.
+3. Click a color to copy its code.
+4. Use palettes in your design projects.
+
+---
+
+## 🌟 Future Enhancements
+- ⭐ Save favorite palettes
+- 🎨 Export palettes to image/JSON
+- 🌓 Dark/Light mode
+- 🌐 Multi-language support
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+- Fork the repo
+- Create a feature branch
+- Submit a pull request 🚀
+
+---
+
+## 👨‍💻 Author
+- Developed by **Novesh Kumar Gautam**  
+- GitHub: [noveshk7](https://github.com/noveshk7)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
 ---
 
 ## 👨‍💻 Author
