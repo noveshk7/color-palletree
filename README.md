@@ -89,18 +89,5 @@ Contributions are welcome!
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
-
-
----
-
-## 👨‍💻 Author
-
-- Developed by **Novesh Kumar Gautam**
-- GitHub: [noveshk7](https://github.com/noveshk7)
-
----
-
-## 📄 License
 
 This project is licensed under the **MIT License**.
